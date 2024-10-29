@@ -51,7 +51,7 @@
       "name": "🌺扣扣┃4K🌺",
       "type": 3,
       "api": "csp_Wexkoukou",
-      "jar": "../lib/wex.txt",
+      "jar": "./lib/wex.txt",
       "searchable": 1,
       "changeable": 1
     },

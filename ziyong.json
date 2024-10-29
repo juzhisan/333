@@ -42,6 +42,17 @@
       "ext": "./lib/完美弹幕.js"
     },
         {
+      "key": "4K_XYQHiker",
+      "name": "垃圾4K┃随意看看",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./lib/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/4kav.json"
+    },
+        {
       "key": "配置中心",
       "name": "🚀弹幕┃高级┃设置",
       "type": 3,

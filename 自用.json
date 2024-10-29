@@ -32,8 +32,8 @@
             "key": "完美弹幕",
             "name": "🩴完美弹幕┃4K纯净",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/完美弹幕.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/完美弹幕.js"
         },
                 {
             "key": "4K_XYQHiker",
